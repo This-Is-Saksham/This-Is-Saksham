@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">My name is Saksham, I am a backend developer, from Hyderabad</p>
 
 ###
@@ -22,8 +20,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Creating bugs from 2021<br>👨‍💻 Currently improving my backend skills/ knowledge, building projects and learning new tech.<br>🎯Goals: Earning in dollars 🔥/ live in cold place ❄️ and keep improving ⬆️<br>🌱 Currently diving into Cloud & DevOps<br>⚡ Fun fact: I break things just to fix them better<br>🏃‍♀️ And i play football ⚽</p>
 
 ###
@@ -33,8 +29,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">I Code With</h2>
 
@@ -53,8 +47,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
